@@ -76,3 +76,4 @@ const capitalized = capitalizeWords(sentence);
 console.log(capitalized);//
 output: "Hi Godwins"
 
+
